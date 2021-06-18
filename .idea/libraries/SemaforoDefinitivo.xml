@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SemaforoDefinitivo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SemaforoDefinitivo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
